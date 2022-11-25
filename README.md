@@ -59,9 +59,7 @@
 
 <h2>• My Projects</h2>
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://ecoleta.onrender.com/)](https://ecoleta.onrender.com/)
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://ecoleta.onrender.com/)](https://ecoleta.onrender.com/)
-[![bookmark.style](https://svg.bookmark.style/api?url=https://bookmark.style/&mode=light&style=horizontal)](https://bookmark.style)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://ecoleta.onrender.com/&mode=orange&style=horizontal)](https://ecoleta.onrender.com/)
 
 <br><br>
 <h2>• My Stats</h2>
