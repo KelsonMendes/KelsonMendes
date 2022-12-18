@@ -60,6 +60,7 @@
 <h2>• My Projects</h2>
 
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://ecoleta.onrender.com/)](https://ecoleta.onrender.com/)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://jobscalculator.onrender.com/)](https://jobscalculator.onrender.com/)
 
 <br><br>
 <h2>• My Stats</h2>
